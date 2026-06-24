@@ -1,0 +1,4 @@
+E:\auditoria\auditoria-estatica\DemoAuditApp\obj\Debug\net10.0\DemoAuditApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\auditoria\auditoria-estatica\DemoAuditApp\obj\Debug\net10.0\DemoAuditApp.AssemblyInfoInputs.cache
+E:\auditoria\auditoria-estatica\DemoAuditApp\obj\Debug\net10.0\DemoAuditApp.AssemblyInfo.cs
+E:\auditoria\auditoria-estatica\DemoAuditApp\obj\Debug\net10.0\DemoAuditApp.csproj.CoreCompileInputs.cache

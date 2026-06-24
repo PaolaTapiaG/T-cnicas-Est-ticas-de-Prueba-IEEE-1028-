@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9xoqVB0jXuM=",
+  "success": true,
+  "projectFilePath": "E:\\auditoria\\auditoria-estatica\\DemoAuditApp\\DemoAuditApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LABORATORIO F.LAB\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\10.0.301\\microsoft.codeanalysis.netanalyzers.10.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
